@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center" line-height= "150%">A passionate frontend developer from Colombia, I´m new in this environment, so treat me good, I like programming, for that reason i´m learning code in Java Script, the goal is to become a FullStack web devolper.</h3>
+<h3 align="center" line-height= "150%">A passionate frontend developer from Colombia, I´m new in this environment, so treat me good ☺️ , I like programming, for that reason i´m learning code in Java Script, the goal is to become a FullStack web devolper.</h3>
 
 <h3 align="left"style="line-height: 100%">Connect with me:</h3>
 <p align="left">
