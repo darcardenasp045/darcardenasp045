@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 my Email is : darcardenasp1@gmail.com
 
-https://github-readme-stats.vercel.app/api?username=darcardenasp045)](https://github.com/darcardenasp045/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darcardenasp045)](https://github.com/darcardenasp045/github-readme-stats)
 
 <!---
 darcardenasp045/darcardenasp045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
