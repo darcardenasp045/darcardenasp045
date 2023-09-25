@@ -30,7 +30,7 @@
 
 my Email is : darcardenasp@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darcardenasp045&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=darcardenasp045&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darcardenasp045&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 darcardenasp045/darcardenasp045 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
